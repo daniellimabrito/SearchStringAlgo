@@ -1,0 +1,11 @@
+/Users/danielbrito/Projects/SearchStringAlgo/bin/Debug/netcoreapp3.1/SearchStringAlgo
+/Users/danielbrito/Projects/SearchStringAlgo/bin/Debug/netcoreapp3.1/SearchStringAlgo.deps.json
+/Users/danielbrito/Projects/SearchStringAlgo/bin/Debug/netcoreapp3.1/SearchStringAlgo.runtimeconfig.json
+/Users/danielbrito/Projects/SearchStringAlgo/bin/Debug/netcoreapp3.1/SearchStringAlgo.runtimeconfig.dev.json
+/Users/danielbrito/Projects/SearchStringAlgo/bin/Debug/netcoreapp3.1/SearchStringAlgo.dll
+/Users/danielbrito/Projects/SearchStringAlgo/bin/Debug/netcoreapp3.1/SearchStringAlgo.pdb
+/Users/danielbrito/Projects/SearchStringAlgo/obj/Debug/netcoreapp3.1/SearchStringAlgo.csprojAssemblyReference.cache
+/Users/danielbrito/Projects/SearchStringAlgo/obj/Debug/netcoreapp3.1/SearchStringAlgo.AssemblyInfoInputs.cache
+/Users/danielbrito/Projects/SearchStringAlgo/obj/Debug/netcoreapp3.1/SearchStringAlgo.AssemblyInfo.cs
+/Users/danielbrito/Projects/SearchStringAlgo/obj/Debug/netcoreapp3.1/SearchStringAlgo.dll
+/Users/danielbrito/Projects/SearchStringAlgo/obj/Debug/netcoreapp3.1/SearchStringAlgo.pdb
